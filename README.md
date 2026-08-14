@@ -1,2 +1,0 @@
-# MYRENAME
-my rename bot
